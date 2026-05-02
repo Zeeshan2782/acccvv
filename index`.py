@@ -1,0 +1,13 @@
+test={
+    "student1":{
+        "math":79,
+        "science":85,
+        "english":92
+    },
+    "student2":{
+        "math":40,
+        "sceince":99,
+        "english":100
+    }
+}
+print(test)
